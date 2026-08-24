@@ -1,0 +1,2 @@
+hi (name) (surname),
+thank you for (x)
